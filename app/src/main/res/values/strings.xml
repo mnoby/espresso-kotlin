@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
